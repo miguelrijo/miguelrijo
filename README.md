@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miguelrijo
+- 👋 Hi, I’m @miguelrijo I am a Full Stack Developer experienced in Java (Spring-boot, Kafka, Weblogic, Maven) and JavaScript ( Vanilla, Angular & React)
 - 🌱 I’m currently learning React, NextJS
 - 💞️ I’m looking to collaborate on NextJs
 - 📫 How to reach me mrijo@outlook.com
